@@ -45,9 +45,10 @@ You can run the project by following these steps:
 1. Install the required libraries:
    ```bash
    pip install -r requirements.txt
-2. Import the dataset
+2. Import the dataset:
+    ```bash
    side_effect_data 1.xlsx
-3. Run the Project:
+4. Run the Project:
    ```bash
    Pusula_RamazanGokturk_Samlioglu.ipynb
    
