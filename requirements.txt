@@ -1,0 +1,4 @@
+Pandas version: 1.5.3
+Numpy version: 1.25.2
+Scikit-learn version: 1.2.2
+Plotly version: 5.18.0
