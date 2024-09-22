@@ -48,5 +48,5 @@ You can run the project by following these steps:
 2. Import the dataset
    side_effect_data 1.xlsx
 3. Run the Project:
-   Pusula_RamazanGokturk_Samlioglu.json
+   Pusula_RamazanGokturk_Samlioglu.ipynb
    
